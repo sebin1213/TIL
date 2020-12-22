@@ -6,10 +6,10 @@
 
 # 내용
 
-[git](./glt)
+[git](./01_glt.md)
 
 
 
 # 기타
 
-* [마크다운활용법](./markdawn)
+* [마크다운활용법](./markdawn.md)
